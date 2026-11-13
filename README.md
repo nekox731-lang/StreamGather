@@ -23,8 +23,6 @@ StreamGather 是一款适用于 Apple 芯片 Mac 的网页音视频下载客户�
 | `src/main.swift` | 客户端源码 |
 | `yt-dlp` | 网页媒体解析与下载工具 |
 | `tools/` | FFmpeg、ffprobe 和随附的上游说明 |
-| `Download/` | 本地下载成品，首次下载时创建，Git 忽略 |
-| `.work/` | 本地临时文件和下载分片，Git 忽略 |
 
 如需卸载，先移走要保留的下载文件，然后退出客户端并删除项目目录。
 
